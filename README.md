@@ -1,1 +1,4 @@
 # swagger_practice
+
+swaggerを使ってAPI仕様書を書いてみる。
+あとせっかくなのでGithub Pagesでドキュメントを見れるようにする
